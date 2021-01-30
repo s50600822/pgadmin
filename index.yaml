@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  pgadmin:
+    - created: 2021-01-31T16:23:20.999999999-06:00
+      description: pgadmin
+      digest: 32804749ac93c3212ae85251b487f17597d0cf3aced9b2d299e7fb13ef5751b1
+      home: https://helm.sh/helm
+      name: pgadmin
+      sources:
+      - https://github.com/helm/helm
+      urls:
+      - https://s50600822.github.io/pgadmin/pgadmin4/pgadmin4-1.4.6.tgz
+      version: 1.4.6

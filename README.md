@@ -1,0 +1,1 @@
+helm repo add watever https://s50600822.github.io/pgadmin/
